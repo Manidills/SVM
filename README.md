@@ -1,7 +1,7 @@
 # SVM
 
 1. Hyperplane that comes with the boundaries { Margins and hyperplane } 
-2. It works to convert to high dim space with the kernal tricks
+2. It works to convert the high dim space with kernal tricks
 
 Kernal Types-
 
